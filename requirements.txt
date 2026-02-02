@@ -6,6 +6,5 @@ IPython
 python-dotenv
 streamlit
 llama-index-embeddings-gemini
-textwarp
 
 -e .
